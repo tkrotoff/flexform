@@ -9,7 +9,7 @@ import {
 } from 'flex-wrap-layout';
 import ReactDOM from 'react-dom';
 
-import './Bootstrap.html';
+import './index.html';
 import './Bootstrap.scss';
 
 // https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes

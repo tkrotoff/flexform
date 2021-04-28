@@ -5,7 +5,7 @@ import path from 'path';
 const waitForResize = () => page.waitForTimeout(100);
 
 test('resize', async () => {
-  await page.goto(`file:${path.join(__dirname, 'build/Bootstrap.html')}`);
+  await page.goto(`file:${path.join(__dirname, 'build/index.html')}`);
 
   const height = 768;
 
