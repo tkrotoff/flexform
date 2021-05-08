@@ -17,7 +17,7 @@
     "@tkrotoff/bootstrap-floating-label": "^0.11.2",
     "bootstrap": "^5.0.0",
     "core-js": "^3.12.0",
-    "flex-wrap-layout": "file:..",
+    "flex-wrap-layout": "^0.10.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
